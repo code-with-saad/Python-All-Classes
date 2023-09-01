@@ -1,0 +1,14 @@
+Hi Saad!
+
+We've found the best article for you based on your interest: Python
+Please click https://www.python.org/ to open the article
+
+Hi Ahmed!
+
+We've found the best article for you based on your interest: Flutter
+Please click https://flutter.dev/ to open the article
+
+Hi Ali!
+
+We've found the best article for you based on your interest: React
+Please click https://www.w3schools.com/react/ to open the article
